@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭
-Chiaseacc
+🔭 I’m currently working on
+- Chiaseacc
 
-🌱
-PHP
+🌱 I’m currently learning
+- PHP
 
-📫
-admin@chiaseacc.com
+📫 How to reach me:
+- admin@chiaseacc.com
 
-⚡
-I am very very curious
+⚡ Fun fact:
+- I am very very curious
