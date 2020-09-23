@@ -22,3 +22,6 @@ PHP
 
 📫
 admin@chiaseacc.com
+
+⚡
+I am very very curious
