@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 - [x] Have a cassette player
 - [x] Buy a pair of early AR-2ax
 - [x] Buy a Fisher 600T amplifier
-- [] Buy a pair of early AR-3a
-- [] Buy a Fisher 800C amplifier
+- [ ] Buy a pair of early AR-3a
+- [ ] Buy a Fisher 800C amplifier
