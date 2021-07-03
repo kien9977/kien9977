@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 ⚡ Fun fact:
 - I am very very curious
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkien9977%2Fkien9977&count_bg=%2379C83D&title_bg=%23555555&icon=spacex.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
+<center><h1>How many people visited me?</h1></center>
+<center>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkien9977%2Fkien9977&count_bg=%2379C83D&title_bg=%23555555&icon=spacex.svg&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)</center>
